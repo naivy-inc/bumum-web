@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://bumom.xyz"),
+  metadataBase: new URL("https://bumum.vercel.app"),
   title: {
     default: "부맘",
     template: "%s | 부맘",
