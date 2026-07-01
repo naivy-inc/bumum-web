@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 const SITE_ORIGIN = "https://bumum.vercel.app";
-const KAKAO_APP_SCHEME = "kakao458bcfe47a6fa6cfbc4ca153929cf479";
+const KAKAO_APP_SCHEME = "kakao1aac84c9cbd5bf3308a437ae9f57d079";
 const OPEN_GRAPH_TITLE = "부맘 가족 초대";
 const OPEN_GRAPH_DESCRIPTION =
   "가족에게 초대장이 왔어요! 같이 마음을 나누어 볼래요?";
@@ -10,7 +10,7 @@ const OPEN_GRAPH_IMAGE_URL = `${SITE_ORIGIN}/images/opengraph.jpg`;
 const DEFAULT_IOS_APP_STORE_URL =
   "https://apps.apple.com/kr/search?term=%EB%B6%80%EB%A7%98";
 const DEFAULT_ANDROID_PLAY_STORE_URL =
-  "https://play.google.com/store/apps/details?id=com.naivy.bumum";
+  "https://play.google.com/store/apps/details?id=com.naivy.bumum.app";
 const DEFAULT_DESKTOP_STORE_URL = DEFAULT_IOS_APP_STORE_URL;
 
 const iosAppStoreUrl =

@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.naivy.bumum",
+      "package_name": "com.naivy.bumum.app",
       "sha256_cert_fingerprints": [
         "02:66:BF:30:A3:4E:AF:5A:2A:84:FF:44:F0:B7:33:D4:91:B7:06:09:41:52:19:5B:15:3F:5A:48:48:42:E0:10"
       ]
